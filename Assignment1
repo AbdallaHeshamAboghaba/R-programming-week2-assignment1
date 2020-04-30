@@ -40,4 +40,4 @@ source("pollutantmean.R")
 pollutantmean("specdata", "nitrate", 70:72)
 
 #Solution
-[1] 1.706047
+[1] 1.706047 
